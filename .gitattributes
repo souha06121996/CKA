@@ -1,2 +1,2 @@
- *.* linguist-language=yaml
+ *.* linguist-language=shell
  *.yaml linguist-vendored=false
